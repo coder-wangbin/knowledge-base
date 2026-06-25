@@ -360,7 +360,7 @@ codegraph init -i
 
 > 数据来源：CodeGraph 官方 benchmark（7 个真实开源项目，4 runs/arm，Claude Opus 4.8）
 
-**多分支项目（如 SKB，15 个客户交付分支）收益更大**：每次切换分支后 Agent 不需要重新探索代码结构，节省 \~65% token。
+**多分支项目（如项目B，15 个客户交付分支）收益更大**：每次切换分支后 Agent 不需要重新探索代码结构，节省 \~65% token。
 
 ## 提供的 MCP 工具
 
