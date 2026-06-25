@@ -412,7 +412,7 @@ codegraph init -i
 | 项目 | 文件数 | 节点数 | 边数 | DB 大小 |
 |-|-|-|-|-|
 |  (`~/Projects/project-a`) | 205 | 3,758 | 9,484 | 7.3 MB |
-| SKB (`~/Projects/project-b`) | 291 | 7,046 | 24,203 | 14.8 MB |
+| 项目B (`~/Projects/project-b`) | 291 | 7,046 | 24,203 | 14.8 MB |
 
 ```bash
 # 查看索引状态

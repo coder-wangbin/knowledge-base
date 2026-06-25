@@ -447,7 +447,7 @@ AI Assistant (OpenCode/Claude Code/Gemini CLI)
 用户: " 的 backend 部署状态怎么样？"
 AI → k8s_get_deployment_status(namespace="backend", deployment="project-a-pub")
 
-用户: "SKB 最新的 CI 失败原因是什么？"
+用户: "项目B 最新的 CI 失败原因是什么？"
 AI → gitlab_get_pipeline(project_path="saas/backend/project-b") → gitlab_get_job_logs(job_id)
 
 用户: "诊断下 script 目标"
